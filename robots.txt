@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icoquela.github.io/Wxo/sitemap_index.txt
+Sitemap: https://icoquela.github.io/aKC/sitemap_index.txt
+Sitemap: https://icoquela.github.io/oMX/sitemap_index.txt
+Sitemap: https://icoquela.github.io/utp/sitemap_index.txt
